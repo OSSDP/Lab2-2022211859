@@ -4,6 +4,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+//Lab2-pr-test
 public class L2022211859_6_Test{
 
     @Test
