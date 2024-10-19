@@ -41,3 +41,6 @@ public class L2022211859_6_Test{
         assertEquals(expected3, solution.peopleIndexes(favoriteCompanies3));
     }
 }
+
+
+//你写的测试用例真不错
