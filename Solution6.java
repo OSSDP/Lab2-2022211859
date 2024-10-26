@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+//2022211860 觉得写的很好，很有逻辑性，代码也很简洁，很容易看懂。
 public class Solution6 {
     Set<String>[] s;
 
